@@ -1,0 +1,26 @@
+_repo: Pappina-the-Little-WandererA-Story-of-Southern-Italy_45556
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45556-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davis, Katherine Wallace
+    gutenberg_agent_id: '43350'
+    url: http://www.gutenberg.org/2009/agents/43350
+description: ''
+gutenberg_bookshelf: Italy
+gutenberg_issued: '2014-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45556'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Italy -- Juvenile fiction'
+title: 'Pappina, the Little Wanderer: A Story of Southern Italy'
+url: http://www.gutenberg.org/ebooks/45556
